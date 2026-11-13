@@ -1,47 +1,21 @@
 #EXTM3U
-#PLAYLIST:ORXAN USTA 0508932436
-
-#EXTINF:-1 tvg-name="Space TV" group-title="ORXAN USTA 0508932436",ORXAN USTA 0508932436 - Space TV
-https://stream.space-tv.az/live/spacetv/index.m3u8
-
-#EXTINF:-1 tvg-name="Dunya TV" group-title="Azərbaycan",Dünya TV
-https://stream.dunyatv.az/live/dunyatv/index.m3u
-
-#EXTINF:-1 tvg-name="ITV" group-title="Azərbaycan",İctimai TV
-https://stream.itv.az/live/itv/index.m3u
-
-#EXTINF:-1 tvg-name="ATV Azerbaijan" group-title="Azərbaycan",ATV
-https://stream.atv.az/live/atv/index.m3u
-
-#EXTINF:-1 tvg-name="AzTV" group-title="Azərbaycan",AzTV
-https://stream.aztv.az/live/aztv/index.m3u
-
-#EXTINF:-1 tvg-name="Xezer TV" group-title="Azərbaycan",Xəzər TV
-https://stream.xezer-tv.az/live/xezertv/index.m3u
-
-#EXTINF:-1 tvg-name="ARB TV" group-title="Azərbaycan",ARB TV
-https://stream.arbtv.az/live/arb/index.m3u
-
-#EXTINF:-1 tvg-name="Kanal S" group-title="Azərbaycan",Kanal S
-https://stream.kanals.az/live/kanals/index.m3u
-
-#EXTINF:-1 tvg-name="ARB 24" group-title="Azərbaycan",ARB 24
-https://stream.arbtv.az/live/arb24/index.m3u
-
-#EXTINF:-1 tvg-name="Baku TV" group-title="Azərbaycan",Baku TV
-https://stream.baku.tv/live/bakutv/index.m3u
-
-#EXTINF:-1 tvg-name="Real TV" group-title="Azərbaycan",Real TV
-https://stream.realtv.az/live/realtv/index.m3u
-
-#EXTINF:-1 tvg-name="Medeniyyet TV" group-title="Azərbaycan",Mədəniyyət TV
-https://stream.aztv.az/live/medeniyyet/index.m3u
-
-#EXTINF:-1 tvg-name="Idman TV" group-title="Azərbaycan",İdman TV
-https://stream.aztv.az/live/idman/index.m3u
-
-#EXTINF:-1 tvg-name="CBC Sport" group-title="Azərbaycan",CBC Sport
-https://stream.cbcsport.az/live/cbcsport/index.m3u
-
-#EXTINF:-1 tvg-name="MTV Azerbaijan" group-title="Azərbaycan",MTV Azerbaijan
-https://stream.mtv.az/live/mtv/index.m3u
+#EXTINF:-1 tvg-id="" tvg-name="AZTV HD" group-title="AZERBAIJAN",AZTV HD
+http://drmtv.xyz:25461/get.php?username=qf682&password=2862622&type=m3u_plus&output=ts&id=53
+#EXTINF:-1 tvg-id="" tvg-name="AzTv" group-title="AZERBAIJAN",AzTv
+http://drmtv.xyz:25461/get.php?username=qf682&password=2862622&type=m3u_plus&output=ts&id=602
+#EXTINF:-1 tvg-id="" tvg-name="ICTIMAI HD" group-title="AZERBAIJAN",ICTIMAI HD
+http://drmtv.xyz:25461/get.php?username=qf682&password=2862622&type=m3u_plus&output=ts&id=709
+#EXTINF:-1 tvg-id="" tvg-name="ICTIMAI" group-title="AZERBAIJAN",ICTIMAI
+http://drmtv.xyz:25461/get.php?username=qf682&password=2862622&type=m3u_plus&output=ts&id=54
+#EXTINF:-1 tvg-id="" tvg-name="XEZER HD" group-title="AZERBAIJAN",XEZER HD
+http://drmtv.xyz:25461/get.php?username=qf682&password=2862622&type=m3u_plus&output=ts&id=311
+#EXTINF:-1 tvg-id="" tvg-name="XEZER" group-title="AZERBAIJAN",XEZER
+http://drmtv.xyz:25461/get.php?username=qf682&password=2862622&type=m3u_plus&output=ts&id=56
+#EXTINF:-1 tvg-id="" tvg-name="SPACE HD" group-title="AZERBAIJAN",SPACE HD
+http://drmtv.xyz:25461/get.php?username=qf682&password=2862622&type=m3u_plus&output=ts&id=57
+#EXTINF:-1 tvg-id="" tvg-name="SPACE" group-title="AZERBAIJAN",SPACE
+http://drmtv.xyz:25461/get.php?username=qf682&password=2862622&type=m3u_plus&output=ts&id=313
+#EXTINF:-1 tvg-id="" tvg-name="Azad HD" group-title="AZERBAIJAN",Azad HD
+http://drmtv.xyz:25461/get.php?username=qf682&password=2862622&type=m3u_plus&output=ts&id=58
+#EXTINF:-1 tvg-id="" tvg-name="AZAD" group-title="AZERBAIJAN",AZAD
+https://lives.atv.az/live/_definst_/atvcanli.stream/playlist.m3u8
