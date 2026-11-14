@@ -1,21 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="AZTV HD" group-title="AZERBAIJAN",AZTV HD
-http://drmtv.xyz:25461/get.php?username=qf682&password=2862622&type=m3u_plus&output=ts&id=53
-#EXTINF:-1 tvg-id="" tvg-name="AzTv" group-title="AZERBAIJAN",AzTv
-http://drmtv.xyz:25461/get.php?username=qf682&password=2862622&type=m3u_plus&output=ts&id=602
-#EXTINF:-1 tvg-id="" tvg-name="ICTIMAI HD" group-title="AZERBAIJAN",ICTIMAI HD
-http://drmtv.xyz:25461/get.php?username=qf682&password=2862622&type=m3u_plus&output=ts&id=709
-#EXTINF:-1 tvg-id="" tvg-name="ICTIMAI" group-title="AZERBAIJAN",ICTIMAI
-http://drmtv.xyz:25461/get.php?username=qf682&password=2862622&type=m3u_plus&output=ts&id=54
-#EXTINF:-1 tvg-id="" tvg-name="XEZER HD" group-title="AZERBAIJAN",XEZER HD
-http://drmtv.xyz:25461/get.php?username=qf682&password=2862622&type=m3u_plus&output=ts&id=311
-#EXTINF:-1 tvg-id="" tvg-name="XEZER" group-title="AZERBAIJAN",XEZER
-http://drmtv.xyz:25461/get.php?username=qf682&password=2862622&type=m3u_plus&output=ts&id=56
-#EXTINF:-1 tvg-id="" tvg-name="SPACE HD" group-title="AZERBAIJAN",SPACE HD
-http://drmtv.xyz:25461/get.php?username=qf682&password=2862622&type=m3u_plus&output=ts&id=57
-#EXTINF:-1 tvg-id="" tvg-name="SPACE" group-title="AZERBAIJAN",SPACE
-http://drmtv.xyz:25461/get.php?username=qf682&password=2862622&type=m3u_plus&output=ts&id=313
-#EXTINF:-1 tvg-id="" tvg-name="Azad HD" group-title="AZERBAIJAN",Azad HD
-http://drmtv.xyz:25461/get.php?username=qf682&password=2862622&type=m3u_plus&output=ts&id=58
-#EXTINF:-1 tvg-id="" tvg-name="AZAD" group-title="AZERBAIJAN",AZAD
-https://lives.atv.az/live/_definst_/atvcanli.stream/playlist.m3u8
+#EXTINF:-1,Ciftci TV
+https://node2-az-baku-delta.streamy.group/stream/ciftcitv
+#EXTINF:-1,Animal Planet
+https://node2-az-baku-delta.streamy.group/stream/animalplanet
