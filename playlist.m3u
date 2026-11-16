@@ -1,5 +1,4 @@
+
 #EXTM3U
-#EXTINF:-1,Ciftci TV
-https://node2-az-baku-delta.streamy.group/stream/1616-space-tv.m3u
-#EXTINF:-1,Animal Planet
-https://node2-az-baku-delta.streamy.group/stream/animalplanet.m3u
+#EXTINF:-1 tvg-name="Kəpəz TV" group-title="Azərbaycan",Kəpəz TV
+https://5.187.2.118:8080 
