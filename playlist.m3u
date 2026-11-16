@@ -1,4 +1,3 @@
-
 #EXTM3U
-#EXTINF:-1 tvg-name="Kəpəz TV" group-title="Azərbaycan",Kəpəz TV
-https://5.187.2.118:8080 
+#EXTINF:-1 tvg-id="KapazTV.az@SD" group-title="Azərbaycan",Kəpəz TV
+http://85.132.78.122:8050/hls/stream/index.m3u8
